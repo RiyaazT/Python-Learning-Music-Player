@@ -5,7 +5,7 @@ a = Analysis(
     ['music.py'],
     pathex=[],
     binaries=[],
-    datas=[('Songs\\music.mp3', '.')],
+    datas=[('music.mp3', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},

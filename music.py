@@ -29,7 +29,7 @@ def exit_app(sender, app_data, user_data):
 #Starts the music player, loads the song, and starts it at a half volume because my computer is loud
 #The load function reads from music stored in the 'Songs' folder, future versions will have the ability to browse and add folders
 mixer.init()
-song_path = resource_path("Songs/music.mp3")
+song_path = resource_path(path.join("music.mp3"))
 mixer.music.load(song_path)
 mixer.music.set_volume(0.5)
 
