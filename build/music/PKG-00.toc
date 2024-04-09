@@ -1,4 +1,5 @@
-('C:\\Users\\Rouka\\Downloads\\music test\\build\\music\\music.pkg',
+('F:\\Github Projects\\Music '
+ 'Player\\Python-Learning-Music-Player\\build\\music\\music.pkg',
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
@@ -10,27 +11,28 @@
   'SYMLINK': False},
  [('pyi-contents-directory _internal', '', 'OPTION'),
   ('PYZ-00.pyz',
-   'C:\\Users\\Rouka\\Downloads\\music test\\build\\music\\PYZ-00.pyz',
+   'F:\\Github Projects\\Music '
+   'Player\\Python-Learning-Music-Player\\build\\music\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
-   'C:\\Users\\Rouka\\Downloads\\music '
-   'test\\build\\music\\localpycs\\struct.pyc',
+   'F:\\Github Projects\\Music '
+   'Player\\Python-Learning-Music-Player\\build\\music\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
-   'C:\\Users\\Rouka\\Downloads\\music '
-   'test\\build\\music\\localpycs\\pyimod01_archive.pyc',
+   'F:\\Github Projects\\Music '
+   'Player\\Python-Learning-Music-Player\\build\\music\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
-   'C:\\Users\\Rouka\\Downloads\\music '
-   'test\\build\\music\\localpycs\\pyimod02_importers.pyc',
+   'F:\\Github Projects\\Music '
+   'Player\\Python-Learning-Music-Player\\build\\music\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
-   'C:\\Users\\Rouka\\Downloads\\music '
-   'test\\build\\music\\localpycs\\pyimod03_ctypes.pyc',
+   'F:\\Github Projects\\Music '
+   'Player\\Python-Learning-Music-Player\\build\\music\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
-   'C:\\Users\\Rouka\\Downloads\\music '
-   'test\\build\\music\\localpycs\\pyimod04_pywin32.pyc',
+   'F:\\Github Projects\\Music '
+   'Player\\Python-Learning-Music-Player\\build\\music\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Python312\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
@@ -44,7 +46,9 @@
   ('pyi_rth_pkgutil',
    'C:\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
    'PYSOURCE'),
-  ('music', 'C:\\Users\\Rouka\\Downloads\\music test\\music.py', 'PYSOURCE')],
+  ('music',
+   'F:\\Github Projects\\Music Player\\Python-Learning-Music-Player\\music.py',
+   'PYSOURCE')],
  'python312.dll',
  True,
  False,
