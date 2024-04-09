@@ -3,7 +3,8 @@
  True,
  False,
  True,
- 'C:\\Python312\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico',
+ ['F:\\Github Projects\\Music '
+  'Player\\Python-Learning-Music-Player\\Winamp-logo.ico'],
  None,
  False,
  False,
@@ -33,6 +34,7 @@
  'F:\\Github Projects\\Music '
  'Player\\Python-Learning-Music-Player\\build\\music\\music.pkg',
  [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('pyi-hide-console hide-early', '', 'OPTION'),
   ('PYZ-00.pyz',
    'F:\\Github Projects\\Music '
    'Player\\Python-Learning-Music-Player\\build\\music\\PYZ-00.pyz',
@@ -75,7 +77,7 @@
  [],
  False,
  False,
- 1712700459,
+ 1712702469,
  [('run.exe',
    'C:\\Python312\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
    'EXECUTABLE')],

@@ -36,14 +36,14 @@ mixer.music.set_volume(0.5)
 #creates the dearpygui window, and adds buttons. Future versions will have Play/Resume work on the same function without restarting the song
 dpg.create_context()
 
-with dpg.window(label="Winamp v1", width=600, height=300):
+with dpg.window(label="Winamp v1", width=800, height=400):
     dpg.add_button(label="Play", callback=play_song)
     dpg.add_button(label="Pause", callback=pause_song)
     dpg.add_button(label="Resume", callback=resume_song)
     dpg.add_slider_float(label="Volume", default_value=0.5, min_value=0.0, max_value=1.0, callback=set_volume)
     dpg.add_button(label="Exit", callback=exit_app)    
 
-dpg.create_viewport(title='This is not a rickroll', width=800, height=400)
+dpg.create_viewport(title='This is not a rickroll', width=800, height=400, decorated=False)
 dpg.setup_dearpygui()
 dpg.show_viewport()
 dpg.start_dearpygui()

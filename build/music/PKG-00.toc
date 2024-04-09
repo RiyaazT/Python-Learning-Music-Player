@@ -10,6 +10,7 @@
   'SPLASH': True,
   'SYMLINK': False},
  [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('pyi-hide-console hide-early', '', 'OPTION'),
   ('PYZ-00.pyz',
    'F:\\Github Projects\\Music '
    'Player\\Python-Learning-Music-Player\\build\\music\\PYZ-00.pyz',

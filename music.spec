@@ -31,6 +31,8 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
+    icon=['Winamp-logo.ico'],
+    hide_console='hide-early',
 )
 coll = COLLECT(
     exe,
